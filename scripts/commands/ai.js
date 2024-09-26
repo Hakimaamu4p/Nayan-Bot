@@ -5,7 +5,7 @@ module.exports = {
     permission: 0,
     credits: "Nayan",
     description: "",
-    prefix: true,
+    prefix: false,
     category: "user",
     usages: "query",
     cooldowns: 5,
@@ -29,15 +29,15 @@ module.exports = {
         messages: [
           {
             role: "assistant",
-            content: "Hello! How are you today?"
+            content: "Hello! Im heaven bestbot "
           },
           {
             role: "user",
-            content: `Hello, my name is ${nn}.`
+            content: `Hello, im heaven bot ${nn}.`
           },
           {
             role: "assistant",
-            content: `Hello, ${nn}! How are you today?`
+            content: `Hello, ${nn}! Im heaven bot`
           }
         ],
         prompt: `${np}`,
