@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "[🧘‍♀️]-𝙝𝙚𝙖𝙫𝙚𝙣 𝙨𝙠𝙚𝙩𝙘𝙝 𝙗ø𝙩",
+  "PREFIX": "-",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "61557094816783",
+    "61557094816783"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61557094816783",
     ""
   ],
   "OWNER": ["100000959749712"], 
