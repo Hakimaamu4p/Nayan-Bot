@@ -5,7 +5,7 @@ module.exports = {
     permission: 0,
     credits: "Nayan",
     description: "",
-    prefix: false,
+    prefix: true,
     category: "user",
     usages: "query",
     cooldowns: 5,
